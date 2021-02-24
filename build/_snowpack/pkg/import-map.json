@@ -1,0 +1,9 @@
+{
+  "imports": {
+    "firebase/app": "./firebase/app.js",
+    "firebase/firestore": "./firebase/firestore.js",
+    "gsap": "./gsap.js",
+    "svelte": "./svelte.js",
+    "svelte/internal": "./svelte/internal.js"
+  }
+}
