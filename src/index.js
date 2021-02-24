@@ -1,4 +1,3 @@
-/* Add JavaScript code here! */
 import App from "./App.svelte";
 
 let app = new App({
